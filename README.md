@@ -1,2 +1,2 @@
 MyApp
-This is myapp for practise
+This is my app for practise
